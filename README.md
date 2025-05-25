@@ -15,4 +15,9 @@ Yao uses regular keyboard controls for us mere-mortals not fammilar with Vim.
 4. CTRL + C - Quit
 5. CTRL + R - Refresh (In case you change terminal size)
 
+## Design
+Future plans revolve around merging 
+
 ## Screenshots
+![image](https://github.com/user-attachments/assets/195b9390-c9e0-48d8-a208-05e7aa101cd7)
+![image](https://github.com/user-attachments/assets/3aefc264-e958-4df7-90f2-57e69f837443)
