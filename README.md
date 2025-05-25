@@ -7,7 +7,6 @@ Comes in three flavours.
 2. Yao-Write - Yao but with added support for Word-Wrapping.
 3. Yao-Hide - Yao-Write but with the ability to encrypt files.
 
-
 ## Controls
 Yao uses regular keyboard controls for us mere-mortals not fammilar with Vim.
 1. Up, Down, Left Right - Cursor Movement
