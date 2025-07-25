@@ -1,0 +1,7 @@
+Hello this is a test to see if the softwrapping function works. Looks like it does. I am very happy about that.
+
+This is a test to see if the second line works as well. I am very happy to see that it works. Go really is amazing! To think that we could make a text editor with just the Go standard library...
+
+I could talk about this all day, but we need to move on. I am happy to see that this work well.
+
+This is a test to see if the text properly wraps to the next line if a line wrap is initiated when typing.
